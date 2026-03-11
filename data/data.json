@@ -1,0 +1,19 @@
+[
+{
+"id":"PGW001",
+"nama":"Andi Pratama",
+"jabatan":"Manager IT",
+"unit":"Teknologi Informasi",
+"email":"andi@email.com",
+"foto":"images/pegawai1.jpg"
+},
+
+{
+"id":"PGW002",
+"nama":"Siti Rahma",
+"jabatan":"Staff HR",
+"unit":"Sumber Daya Manusia",
+"email":"siti@email.com",
+"foto":"images/pegawai2.jpg"
+}
+]
